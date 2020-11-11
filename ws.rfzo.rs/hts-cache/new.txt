@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:25:43	26/26	U-----	200	untouched ('OK')	text/plain	etag:%221a-5a3c8cc8afa00%22	https://ws.rfzo.rs/robots.txt		(from )
+22:25:43	2819/2819	U-----	200	untouched ('OK')	text/html	date:Sun,%2008%20Nov%202020%2021:00:05%20GMT	https://ws.rfzo.rs/covid19validation/validate.php?cqcode=1603543729uNrsvELA2Plbgfs2V0IiRMKtQ1rAiWAYotn4pG5RWJLnrrXDRc&fbclid=IwAR3AX7WvDi_tzXpK5ZP1Bl2jiI6X2A0E-83jtb6PeMjq-t4_en8UE2lWxBE	C:/My%20Web%20Sites/tanja/./ws.rfzo.rs/covid19validation/validate6458.html	(from )

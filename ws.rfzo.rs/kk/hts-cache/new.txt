@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:28:41	2819/2819	---M--	200	added ('OK')	text/html	date:Sun,%2008%20Nov%202020%2021:28:44%20GMT	https://ws.rfzo.rs/covid19validation/validate.php?cqcode=1603543729uNrsvELA2Plbgfs2V0IiRMKtQ1rAiWAYotn4pG5RWJLnrrXDRc&fbclid=IwAR3Iv8_VLLExdaumn-yjHk_nv2rhIsesxajzv_4DsoDG0AByIGo6CjiRwD8	C:/My%20Web%20Sites/tanja/kk/ws.rfzo.rs/covid19validation/validate1093.html	(from )
+22:28:41	26/26	---M--	200	added ('OK')	text/plain	etag:%221a-5a3c8cc8afa00%22	https://ws.rfzo.rs/robots.txt		(from )
